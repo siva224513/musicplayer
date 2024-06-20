@@ -14,3 +14,4 @@ This is a simple music player created using HTML, CSS, and JavaScript.
 
 ## Usage
 1. Clone the repository
+2. Open `index.html` in your browser.
