@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Arabic Kuthu",
+      "artist": "Thalapathy Vijay, Pooja Hedge",
+      "image": "./images/arabickuthu.jpg",
+      "path":"./songs/Arabickuthu.mp3"
+    },
+    {
+      "title": "Enna Naan Seiven",
+      "artist": "Vaibhav, Priya Bhavani Shankar",
+      "image": "./images/meyadhamaan.jpg",
+      "path":"./songs/Enna-Naan-Seiven.mp3"
+    },
+    {
+        "title": "Senjitaley ",
+        "artist": "Siva Karthikeyen, Keerthi Suresh",
+        "image": "./images/Senjitaley.jpg",
+        "path":"./songs/Senjitaley.mp3"
+    },
+    {
+        "title": "Thaai Kelavi",
+        "artist": "Dhanush, Nithya menon",
+        "image": "./images/Thaai-Kelavi.jpg",
+        "path":"./songs/Thaai-kelavi.mp3"
+    }
+  ]
